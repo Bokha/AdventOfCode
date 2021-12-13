@@ -2,7 +2,7 @@
 import re
 
 def get_text():
-    with open("day5/input.txt", "r") as file:
+    with open("day05/input.txt", "r") as file:
         nass = file.read()
         return nass
 input=get_text()
